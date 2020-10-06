@@ -866,7 +866,7 @@ design rules under a new name.
 <element name="R2X52" library="SPCoast" package="CUT-R" value="NOSTUFF" x="90.17" y="71.12" rot="R90"/>
 <element name="R3X52" library="SPCoast" package="CUT-R" value="NOSTUFF" x="85.09" y="71.12" rot="R90"/>
 <element name="R4X52" library="SPCoast" package="CUT-R" value="NOSTUFF" x="82.55" y="71.12" rot="R90"/>
-<element name="CARRIER" library="SPCoast" package="BOARD-DINRAIL-3.17IN-5X2-IOP" value="10x10" x="0" y="0"/>
+<element name="CARRIER" library="SPCoast" package="BOARD-DINRAIL-3.17IN-5X2-IOP" value="BOARD" x="0" y="0"/>
 <element name="FID-UL" library="SPCoast" package="FIDUCIAL_1MM" value="FIDUCIAL" x="5.08" y="91.44" smashed="yes">
 <attribute name="NAME" x="2.54" y="89.535" size="1.016" layer="25" rot="R90"/>
 </element>
